@@ -28,7 +28,7 @@
     <jenkins.version>2.164.3</jenkins.version>
     <java.level>8</java.level>
     <no-test-jar>false</no-test-jar>
-    <okio.version>1.17.5</okio.version>
+    <okio.version>3.4.0</okio.version>
   </properties>
 
   <dependencies>
